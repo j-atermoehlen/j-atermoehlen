@@ -1,5 +1,4 @@
-📫 How to reach me: https://www.tu-braunschweig.de/ifn/institut/team/sv/termoehlen
-
+✉️ How to reach me: j-a@termoehlen.info
 <!--
 **j-atermoehlen/j-atermoehlen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
